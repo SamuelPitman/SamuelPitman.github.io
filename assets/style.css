@@ -8,14 +8,14 @@ body {
 header {
   display: flex;
   justify-content: space-between;
-  border-bottom: 3px solid maroon; /* was #ccc */
+  border-bottom: 3px solid #45B1E0; /* was #ccc */
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
 header a {
   text-decoration: none;
   font-weight: bold;
-  color: #8FD0EC; /* #333; */
+  color: #45B1E0; /* #333; */
 }
 nav {
   display: flex;
@@ -23,20 +23,20 @@ nav {
 }
 nav a {
   text-decoration: none;
-  color: #8FD0EC;
+  color: #45B1E0;
   font-weight: bold;
 }
 
 h2 {
   margin-top: 30px;
-  color: #8FD0EC;
+  color: #45B1E0;
 }
 
 footer {
   margin-top: 40px;
-  border-top: 3px solid maroon;
+  border-top: 3px solid #45B1E0;
   padding-top: 10px;
   font-size: 0.9em;
-  color: #8FD0EC;
+  color: #45B1E0;
   text-align: center;
 }
