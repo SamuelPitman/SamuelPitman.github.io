@@ -15,7 +15,7 @@ header {
 header a {
   text-decoration: none;
   font-weight: bold;
-  color: maroon; /* #333; */
+  color: #8FD0EC; /* #333; */
 }
 nav {
   display: flex;
@@ -23,13 +23,13 @@ nav {
 }
 nav a {
   text-decoration: none;
-  color: maroon;
+  color: #8FD0EC;
   font-weight: bold;
 }
 
 h2 {
   margin-top: 30px;
-  color: maroon;
+  color: #8FD0EC;
 }
 
 footer {
@@ -37,6 +37,6 @@ footer {
   border-top: 3px solid maroon;
   padding-top: 10px;
   font-size: 0.9em;
-  color: maroon;
+  color: #8FD0EC;
   text-align: center;
 }
