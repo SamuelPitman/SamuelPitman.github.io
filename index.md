@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Brief Description
-Welcome! I am a PhD student at the Unversity of New South Wales (Sydney, Australia). 
+Welcome! I am a PhD student at the University of New South Wales (Sydney, Australia). 
 
 I study Quantum Chemistry under the supervison of Dr Laura K. McKemmish.
 
