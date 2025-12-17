@@ -40,3 +40,18 @@ footer {
   color: #45B1E0;
   text-align: center;
 }
+
+a {
+  color: #8FD0EC;
+  text-decoration: none;
+}
+a:hover {
+  color: #D4EBCC;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #C5BFED;
+  text-decoration: none;
+}
+
