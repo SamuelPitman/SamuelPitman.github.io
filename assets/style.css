@@ -1,24 +1,33 @@
 body {
   font-family: Arial, sans-serif;
   margin: 40px;
+  background-color: #fff; /* Clean background attempt */
+  color: #333;
   line-height: 1.6;
 }
 header {
   display: flex;
   justify-content: space-between;
-  border-bottom: 2px solid #ccc;
+  border-bottom: 3px solid maroon; /* was #ccc */
   padding-bottom: 10px;
   margin-bottom: 20px;
 }
 header a {
   text-decoration: none;
   font-weight: bold;
-  color: #333;
+  color: maroon; /* #333; */
 }
+
+h2 {
+  margin-top: 30px;
+  color: maroon;
+}
+
 footer {
   margin-top: 40px;
-  border-top: 2px solid #ccc;
+  border-top: 3px solid maroon;
   padding-top: 10px;
   font-size: 0.9em;
-  color: #666;
+  color: maroon;
+  text-align: center;
 }
