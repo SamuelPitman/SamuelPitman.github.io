@@ -17,6 +17,15 @@ header a {
   font-weight: bold;
   color: maroon; /* #333; */
 }
+nav {
+  display: flex;
+  gap: 30px;
+}
+nav a {
+  text-decoration: none;
+  color: maroon;
+  font-weight: bold;
+}
 
 h2 {
   margin-top: 30px;
