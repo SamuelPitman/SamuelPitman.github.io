@@ -13,7 +13,7 @@ Here are some interesting papers I'd recommend, especially for students new to t
 
 
 ## Basis Set papers {#BasisSets}
-- <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5c01174" target="_blank" rel="noopener noreferrer"> Atomic orbital basis sets </a> – F. Jensen, 2013
+- <a href="https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1123" target="_blank" rel="noopener noreferrer"> Atomic orbital basis sets </a> – F. Jensen, 2013
 - Paper 2 – Author, Year
 - Paper 3 – Author, Year
 
