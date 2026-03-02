@@ -21,4 +21,4 @@ Here are some interesting papers I'd recommend, especially for students new to t
 - <a href="https://pubs.acs.org/doi/10.1021/acs.jpca.2c02494" target="_blank" rel="noopener noreferrer"> MP2-F12 Basis Set Convergence near the Complete Basis Set Limit: Are h Functions Sufficient? </a> – N. Mehta, Jan M. L. Martin, 2022
 
 ## Interesting work papers {#InterestingStuff}
-- <a href="pubs.acs.org/doi/10.1021/acs.jctc.3c00506" target="_blank" rel="noopener noreferrer"> Correlation Consistent Basis Sets for Explicitly Correlated Theory: The Transition Metals </a> - E. Semidalas, J. M. L. Martin, 2023
+- <a href="https://pubs.acs.org/doi/10.1021/acs.jctc.3c00506" target="_blank" rel="noopener noreferrer"> Correlation Consistent Basis Sets for Explicitly Correlated Theory: The Transition Metals </a> - E. Semidalas, J. M. L. Martin, 2023
